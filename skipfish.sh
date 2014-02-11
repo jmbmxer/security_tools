@@ -1,8 +1,8 @@
-#/bin/sh
+#bin/sh
 #Define global variables
-REPORT_DIR=/home/jmesta/nmi_skipfish
+REPORT_DIR=/home/project/dir/here
 URI_TO_IGNORE=/css/,/img/,/images/,/js/,/doc/
-TARGET_URL=https://secure.nmi.com
+TARGET_URL=https://sitetotest.com
 TARGET_ROOT_URL=$TARGET_URL
 INTERACTIVE_MODE=YES
 #
