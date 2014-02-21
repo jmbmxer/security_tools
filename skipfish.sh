@@ -28,3 +28,4 @@ fi
 
 skipfish -b i -I $TARGET_ROOT_URL -X $URI_TO_IGNORE -o $REPORT_DIR -C $COOKIE -M -Q $RUNNING_MODE -G 256 -g 10 -m 10 -f 20 -t 60 -w 60 -i 60 -s 1024000 -e $TARGET_URL
 
+#wait forever
