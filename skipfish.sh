@@ -1,9 +1,9 @@
 #bin/sh
 #Define global variable
-REPORT_DIR=/home/jmesta/mingle
+REPORT_DIR=/home/your/dir
 URI_TO_IGNORE=/css/,/img/,/images/,/js/,/doc/
-TARGET_URL=https://redspin.mingle-staging.thoughtworks.com/
-COOKIE=mingle_13_4_session_id=c498289a30c345bc3b00fda8e77703c4
+TARGET_URL=https://hack.me
+COOKIE=name=value
 TARGET_ROOT_URL=$TARGET_URL
 INTERACTIVE_MODE=YES
 
